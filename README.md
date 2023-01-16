@@ -7,4 +7,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=no13bus)](https://github.com/anuraghazra/github-readme-stats)
+[![no13bus's GitHub stats](https://github-readme-stats-dcrt.vercel.app/api?username=no13bus)](https://github.com/no13bus/github-readme-stats)
