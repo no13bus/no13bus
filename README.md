@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi there <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+
+
+- 🔭 I’m a fullstack developer. I‘m currently working on Java, Typescript. 
+- 🔨 I like create tools to make people's life enjoyable. You can check them [here](https://danieljia.work)
+- 📫 How to reach me: no13bus@gmail.com
+
 
 <!--
-**no13bus/no13bus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=no13bus "![Anurag's github stats")](https://github.com/anuraghazra/github-readme-stats)
+-->
