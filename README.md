@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m a fullstack developer. I‘m currently working on Java, Typescript. 
-- 🔨 I like create tools to make people's life enjoyable.
+- 🔨 I like create tools to make people's life enjoyable. You can check [here](https://bento.me/danieljia)
 - 📫 How to reach me: no13bus@gmail.com
 
 
