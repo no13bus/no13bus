@@ -4,7 +4,7 @@
 - 🔭 I’m a fullstack developer. I‘m currently working on Java, Typescript. 
 - 🔨 I like create tools to make people's life enjoyable. You can check [here](https://bento.me/danieljia)
 - 📫 How to reach me: no13bus@gmail.com
-- My first indie product[【诗片】](https://apps.apple.com/us/app/id1672208469) launched in the app store. 
+- My first indie product[PoemForPhone【诗片】](https://apps.apple.com/us/app/id1672208469) launched in the app store. 
 
 
 
